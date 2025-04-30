@@ -23,7 +23,7 @@
     --text-lg:2.5rem;
     --text-xl:4rem ;
 
-    
+
 } 
 
 html, button {
@@ -44,3 +44,7 @@ h2 {
     line-height: 1.2;
 }
 
+a {
+    color: inherit;
+    text-decoration: none;
+}
