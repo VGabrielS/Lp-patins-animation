@@ -30,6 +30,10 @@ html, button {
     font: 500 1rem/1.5 var(--ff-base);
 }
 
+html {
+    zoom: .8;
+}
+
 h1, h2 {
     font-family: "Syne", sans-serif;
 }
